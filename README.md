@@ -1,1 +1,1 @@
-# DoctorDS
+This Repository contains information about 2390 doctors along with their name,rating,qualifications,consultation time and speciality.This file was intended for our project AI medical assistance chatbot backend.This contains information of most of the doctors in my locality which was readily available across various sources in Internet.
